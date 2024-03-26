@@ -1,0 +1,25 @@
+article {
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 1%;
+    margin: 1%;
+}
+
+/* Modificar posición */
+
+article {
+    max-width: 50%;
+}
+
+section {
+    display: flex;
+}
+
+.fa-brands {
+    margin: 1%;
+    font-size: 4rem;
+    position: fixed;
+    bottom: 5%;
+    right: 2%;
+    z-index: 20;
+}
