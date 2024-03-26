@@ -1,0 +1,21 @@
+/* 
+* = todos los elementos 
+*/
+
+* {
+    background-color: black;
+    color: whitesmoke;
+}
+
+h2 {
+    color: yellow;
+    border: 1px solid lightcoral;
+}
+
+.textosDistintos {
+    background-color: blue;
+}
+
+#unicoSubtituloDistinto {
+    color: lightsalmon;
+}

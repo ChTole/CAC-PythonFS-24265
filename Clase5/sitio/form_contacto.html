@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario de contacto</title>
+</head>
+<body>
+    <header>
+        <h1>Ejemplo formulario de contacto</h1>
+    </header>
+    <main>
+        <form action="respuesta.html">
+            <fieldset>
+                <legend>Datos personales</legend>
+                <label for="nombre">Nombre y apellido:</label>
+                <input name="nombre" type="text" size="50">
+                <br>
+                <label for="correo">Correo electrónico</label>
+                <input type="email" name="correo">
+            </fieldset>
+            <fieldset>
+                <legend>Sobre la cursada</legend>
+                <p>Lenguajes de interés</p>
+                <input type="checkbox" name="opcion1">
+                <label for="opcion1">Python</label>
+                <input type="checkbox" name="opcion2">
+                <label for="opcion2">C</label>
+                <input type="checkbox" name="opcion3">
+                <label for="opcion3">C++</label>
+                <br>
+                <label for="turno">Turno</label>
+                <select name="turno">
+                    <option value="valor1">Mañana</option>
+                    <option value="valor2">Tarde</option>
+                    <option value="valor3" selected="True">Noche</option>
+                </select>
+            </fieldset>
+            <fieldset>
+                <legend>Acciones del formulario</legend>
+                <input type="submit" value="Enviar"> <!-- NO PUEDE FALTAR -->
+                <input type="reset" value="Borrar datos">
+            </fieldset>
+        </form>
+    </main>
+</body>
+</html>

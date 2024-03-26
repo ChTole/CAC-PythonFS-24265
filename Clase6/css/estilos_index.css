@@ -1,0 +1,10 @@
+h1, h2 {
+    text-align: center;
+    background-color: rgb(240, 240, 240);
+    border: 1px solid blue;
+    border-radius: 5px;
+}
+
+img {
+    width: 20%;
+}

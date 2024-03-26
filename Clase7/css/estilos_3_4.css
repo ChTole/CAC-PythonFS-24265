@@ -1,0 +1,36 @@
+.contenedor{
+    border: 1px solid black;
+    margin: 1%;
+    padding: 1%;
+    border-radius: 3px;
+}
+
+
+/* Medidas absolutas */
+/* 400 pixeles */
+.pixeles {
+    width: 400px;
+}
+
+/* 4 pulgadas */
+.pulgadas {
+    width: 4in;
+}
+
+/* 20 centímetros */
+.centimetros {
+    width: 20cm;
+}
+
+/* Medidas relativas */
+.segunEm {
+    width: 10em;
+}
+
+.segunRem {
+    width: 10rem;
+}
+
+.segunPorcentaje {
+    width: 10%;
+}

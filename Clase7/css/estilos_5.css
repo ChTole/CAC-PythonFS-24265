@@ -1,0 +1,18 @@
+/* Colores */
+
+.rojo {
+    color: red; /* rgb(255, 0, 0)*/
+}
+
+.azul {
+    color: rgb(0, 0, 255);
+}
+
+.verde {
+    color: rgba(0, 255, 0, 0.5);
+    background-color: grey;
+}
+
+.unColor {
+    color: #ff00ff;
+}
