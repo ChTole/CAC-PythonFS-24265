@@ -1,0 +1,80 @@
+article {
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 1%;
+    margin: 1%;
+}
+
+h4 {
+    text-align: center;
+    font-size: x-large;
+}
+/* Movimiento */
+.enMovimiento {
+    display: flex;
+}
+
+p {
+    z-index: 20;
+}
+
+.destino {
+    position: absolute;
+    right: 3%;
+}
+
+.objIzqDer {
+    height: 4%;
+    width: 10%;
+    background-color: lavender;
+    position: absolute;
+    transform: translateX(300px); /* probar distintos valores */
+}
+
+/* Escalado */
+.escalado {
+    transform: scale(2,2); /* probar con distintos valores y dos parámetros */
+    overflow: hidden;
+}
+
+/* Rotación */
+.rotado {
+    width: 40%;
+    transform: rotate(45deg);
+}
+
+/* Animación */
+
+@keyframes centroDerecha{
+    0% {color: white; left: 35%;}
+    33% {color: grey; left: 45%;}
+    66% {color: black; left: 55%;}
+    100% {color: black; left: 60%;}
+}
+
+.primeraAni {
+    display: flex;
+    position: relative;
+    left: 25%; 
+    color: white; 
+    animation-name: centroDerecha;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes centroIzquierda{
+    0% {color: white; left: 30%;}
+    33% {color: grey; left: 25%;}
+    66% {color: black; left: 15%;}
+    100% {color: black; left: 5%;}
+}
+
+.segundaAni {
+    display: flex;
+    position: relative;
+    left: 35%; 
+    color: white; 
+    animation-name: centroIzquierda;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+}

@@ -1,0 +1,37 @@
+/* Agrupados */
+h1, h4 {
+    font-size: 2rem;
+}
+
+/* Descendiente */
+article p {
+    background-color: bisque;
+}
+
+/* "Hijos directos" */
+section > article {
+    background-color: aqua;
+}
+
+article:first-child {
+    text-align: center;
+}
+
+article:nth-child(2) {
+    text-align: right;
+}
+
+/* Según evento */
+a:link, a:visited {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    border: 1px solid aqua;
+    background-color: aqua;
+}
+
+a:active {
+    background-color: green;
+}

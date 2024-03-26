@@ -22,3 +22,12 @@ section {
     border: 2px solid black;
     border-radius: 5px;
 }
+
+p, ul {
+    background-color: coral;
+}
+
+.max-50porc {
+    max-width: 50%;
+    max-height: 50%;
+}

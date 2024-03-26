@@ -1,0 +1,103 @@
+article {
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 1%;
+    margin: 1%;
+}
+
+.fa-brands {
+    margin: 1%;
+    font-size: 4rem;
+    position: fixed;
+    bottom: 5%;
+    right: 2%;
+    z-index: 20;
+}
+
+a:link, a:visited {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    border: 1px solid aqua;
+    background-color: aqua;
+}
+
+a:active {
+    background-color: green;
+}
+
+
+/* Puntos de corte */
+
+
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (max-width: 600px) {
+    main {
+        background-color: bisque;
+    }
+
+    section {
+        display: block;
+    }
+
+    article {
+        width: 100%;
+    }
+
+    img {
+        display: none;
+    }
+
+    body {
+        font-size: small;
+    }
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 600px) {
+    main {
+        background-color: lightseagreen;
+    }
+    section {
+        display: block;
+    }
+    
+    article {
+        width: 100%;
+    }
+
+    img {
+        display: none;
+    }
+
+    body {
+        font-size: medium;
+    }
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+    main {
+        background-color: lightskyblue;
+    }
+
+    section {
+        display: flex;
+    }
+    
+    article {
+        width: 50%;
+    }
+  
+    img {
+        display: block;
+        min-width: 20%;
+    }
+    
+    .enLinea {
+        display: flex;
+    }
+}
