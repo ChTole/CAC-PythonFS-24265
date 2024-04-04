@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+* {
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-variation-settings: "wdth" 100;
+}
+
+body {
+    position: relative;
+    min-height: 100vh;
+    padding-bottom: 4.5rem;
+}
+
+header, footer {
+    background-color: coral;
+    color: whitesmoke;
+    text-align: center;
+}
+
+header {
+    height: auto;
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    width: 60%;
+}
+
+main {
+    background-color: whitesmoke;
+    padding: 4%;
+}
+
+footer {
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 4.5rem;
+}
+
+
+.logoFijo {
+    margin: 1%;
+    width: 5rem;
+    position: fixed;
+    bottom: 5rem;
+    right: 2%;
+    z-index: 20;
+}
+
+article {
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 2%;
+    margin: 2%;
+}
+
+/* Tarea con puntos de corte y grid */
+
+/* Crear 3 puntos de corte de manera tal que en cada uno sólo
+se visualice el dispositivo correspondiente (celular, tablet, pc).
+Asimismo, con grid establecer:
+- Para celulares los artículos en una misma columna y la imagen debajo
+- Para tablet´s los artículos en una misma columna y la imagen ubicada a la derecha del párrafo. */
