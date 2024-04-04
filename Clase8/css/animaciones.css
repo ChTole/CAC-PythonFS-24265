@@ -33,14 +33,14 @@ p {
 
 /* Escalado */
 .escalado {
-    transform: scale(2,2); /* probar con distintos valores y dos parámetros */
+    transform: scale(1,1); /* probar con distintos valores y dos parámetros */
     overflow: hidden;
 }
 
 /* Rotación */
 .rotado {
     width: 40%;
-    transform: rotate(45deg);
+    transform: rotate(5deg);
 }
 
 /* Animación */

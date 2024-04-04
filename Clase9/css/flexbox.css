@@ -1,0 +1,30 @@
+/* Escalado de imágenes */
+
+img {
+    width: 15%;
+    height: auto;
+}
+
+picture {
+    display: flex;
+    padding: 2%;
+}
+
+.imgArticulo {
+    /* justify-content: space-around; */
+    justify-content: space-between;
+}
+
+/* Distribución de artículos */
+section {
+    display: flex;
+    /* Primera alineación */
+    justify-content: space-around;
+    /* Alineación secundaria */
+    /* align-items: center; */
+    align-items: stretch;
+}
+
+article {
+    width: 35%;
+}
