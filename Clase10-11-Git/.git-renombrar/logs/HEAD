@@ -1,0 +1,38 @@
+0000000000000000000000000000000000000000 755b9298c6f3688e434d964e3ad67c98c3ded4b3 ChTole <ch.ariel.tole@gmail.com> 1712670000 -0300	commit (initial): Comienzo repo - agrego index
+755b9298c6f3688e434d964e3ad67c98c3ded4b3 479c6b3ac467098c0343c861e4e3737391fef894 ChTole <ch.ariel.tole@gmail.com> 1712670398 -0300	commit: Modifico index
+479c6b3ac467098c0343c861e4e3737391fef894 ab1c28683fc776545d30d31ed4ed4746309363e5 ChTole <ch.ariel.tole@gmail.com> 1712670480 -0300	commit: Agrego estilos
+ab1c28683fc776545d30d31ed4ed4746309363e5 755b9298c6f3688e434d964e3ad67c98c3ded4b3 ChTole <ch.ariel.tole@gmail.com> 1712670735 -0300	checkout: moving from master to 755b929
+755b9298c6f3688e434d964e3ad67c98c3ded4b3 ab1c28683fc776545d30d31ed4ed4746309363e5 ChTole <ch.ariel.tole@gmail.com> 1712670918 -0300	checkout: moving from 755b9298c6f3688e434d964e3ad67c98c3ded4b3 to ab1c286
+ab1c28683fc776545d30d31ed4ed4746309363e5 ab1c28683fc776545d30d31ed4ed4746309363e5 ChTole <ch.ariel.tole@gmail.com> 1712671197 -0300	checkout: moving from ab1c28683fc776545d30d31ed4ed4746309363e5 to master
+ab1c28683fc776545d30d31ed4ed4746309363e5 ab1c28683fc776545d30d31ed4ed4746309363e5 ChTole <ch.ariel.tole@gmail.com> 1712671495 -0300	checkout: moving from master to dev1chris
+ab1c28683fc776545d30d31ed4ed4746309363e5 1d874cd72c924a333abf28be6e9926b6883e2efe ChTole <ch.ariel.tole@gmail.com> 1712671582 -0300	commit: Agrego contenido index
+1d874cd72c924a333abf28be6e9926b6883e2efe ab1c28683fc776545d30d31ed4ed4746309363e5 ChTole <ch.ariel.tole@gmail.com> 1712671625 -0300	checkout: moving from dev1chris to master
+ab1c28683fc776545d30d31ed4ed4746309363e5 1d874cd72c924a333abf28be6e9926b6883e2efe ChTole <ch.ariel.tole@gmail.com> 1712671647 -0300	checkout: moving from master to dev1chris
+1d874cd72c924a333abf28be6e9926b6883e2efe ab1c28683fc776545d30d31ed4ed4746309363e5 ChTole <ch.ariel.tole@gmail.com> 1712671653 -0300	checkout: moving from dev1chris to master
+ab1c28683fc776545d30d31ed4ed4746309363e5 1d874cd72c924a333abf28be6e9926b6883e2efe ChTole <ch.ariel.tole@gmail.com> 1712671945 -0300	checkout: moving from master to dev1chris
+1d874cd72c924a333abf28be6e9926b6883e2efe 310f3ef66a9bcb69913da45f731117974c069320 ChTole <ch.ariel.tole@gmail.com> 1712671974 -0300	commit: Agrego contenido index II
+310f3ef66a9bcb69913da45f731117974c069320 ab1c28683fc776545d30d31ed4ed4746309363e5 ChTole <ch.ariel.tole@gmail.com> 1712671990 -0300	checkout: moving from dev1chris to master
+ab1c28683fc776545d30d31ed4ed4746309363e5 310f3ef66a9bcb69913da45f731117974c069320 ChTole <ch.ariel.tole@gmail.com> 1712672200 -0300	merge dev1chris: Fast-forward
+310f3ef66a9bcb69913da45f731117974c069320 02fdb17d86481c8d1f32312c19b6496df1641403 ChTole <ch.ariel.tole@gmail.com> 1712839944 -0300	commit: agrego imagen del repo
+02fdb17d86481c8d1f32312c19b6496df1641403 02fdb17d86481c8d1f32312c19b6496df1641403 ChTole <ch.ariel.tole@gmail.com> 1712840224 -0300	checkout: moving from master to bootstrap
+02fdb17d86481c8d1f32312c19b6496df1641403 02fdb17d86481c8d1f32312c19b6496df1641403 ChTole <ch.ariel.tole@gmail.com> 1712841140 -0300	checkout: moving from bootstrap to master
+02fdb17d86481c8d1f32312c19b6496df1641403 02fdb17d86481c8d1f32312c19b6496df1641403 ChTole <ch.ariel.tole@gmail.com> 1712841297 -0300	checkout: moving from master to bootstrap
+02fdb17d86481c8d1f32312c19b6496df1641403 ae060869185eb44a1bd03fb9cb83238daba321d5 ChTole <ch.ariel.tole@gmail.com> 1712841318 -0300	commit: conecto con estilos Bootstrap
+ae060869185eb44a1bd03fb9cb83238daba321d5 02fdb17d86481c8d1f32312c19b6496df1641403 ChTole <ch.ariel.tole@gmail.com> 1712841342 -0300	checkout: moving from bootstrap to master
+02fdb17d86481c8d1f32312c19b6496df1641403 02fdb17d86481c8d1f32312c19b6496df1641403 ChTole <ch.ariel.tole@gmail.com> 1712841410 -0300	checkout: moving from master to contacto
+02fdb17d86481c8d1f32312c19b6496df1641403 a0cbb14961084eed8c525fa5705b00e79dd5d9a3 ChTole <ch.ariel.tole@gmail.com> 1712841578 -0300	commit: agrego form de contacto
+a0cbb14961084eed8c525fa5705b00e79dd5d9a3 02fdb17d86481c8d1f32312c19b6496df1641403 ChTole <ch.ariel.tole@gmail.com> 1712841596 -0300	checkout: moving from contacto to master
+02fdb17d86481c8d1f32312c19b6496df1641403 a0cbb14961084eed8c525fa5705b00e79dd5d9a3 ChTole <ch.ariel.tole@gmail.com> 1712841716 -0300	merge contacto: Fast-forward
+a0cbb14961084eed8c525fa5705b00e79dd5d9a3 a0cbb14961084eed8c525fa5705b00e79dd5d9a3 ChTole <ch.ariel.tole@gmail.com> 1712842162 -0300	reset: moving to HEAD
+a0cbb14961084eed8c525fa5705b00e79dd5d9a3 ae060869185eb44a1bd03fb9cb83238daba321d5 ChTole <ch.ariel.tole@gmail.com> 1712842183 -0300	checkout: moving from master to bootstrap
+ae060869185eb44a1bd03fb9cb83238daba321d5 a0cbb14961084eed8c525fa5705b00e79dd5d9a3 ChTole <ch.ariel.tole@gmail.com> 1712842207 -0300	checkout: moving from bootstrap to master
+a0cbb14961084eed8c525fa5705b00e79dd5d9a3 f244ac0c86bfb72792ba8d458fe9002ddb7592c4 ChTole <ch.ariel.tole@gmail.com> 1712842370 -0300	commit (merge): resuelvo conflicto merge bootstrap
+f244ac0c86bfb72792ba8d458fe9002ddb7592c4 f244ac0c86bfb72792ba8d458fe9002ddb7592c4 ChTole <ch.ariel.tole@gmail.com> 1712843077 -0300	checkout: moving from master to contenidoIndex
+f244ac0c86bfb72792ba8d458fe9002ddb7592c4 854e0e43d4eb9ba689fb0c8824c54d285d1dc505 ChTole <ch.ariel.tole@gmail.com> 1712843134 -0300	commit: agrego contenido con fecha 11/04/2024
+854e0e43d4eb9ba689fb0c8824c54d285d1dc505 f244ac0c86bfb72792ba8d458fe9002ddb7592c4 ChTole <ch.ariel.tole@gmail.com> 1712843177 -0300	checkout: moving from contenidoIndex to master
+f244ac0c86bfb72792ba8d458fe9002ddb7592c4 c5216fbf8140c24fbc2284a50c392515b4ee3ab8 ChTole <ch.ariel.tole@gmail.com> 1712843230 -0300	commit: contenido nube
+c5216fbf8140c24fbc2284a50c392515b4ee3ab8 c5216fbf8140c24fbc2284a50c392515b4ee3ab8 ChTole <ch.ariel.tole@gmail.com> 1712843701 -0300	reset: moving to HEAD
+c5216fbf8140c24fbc2284a50c392515b4ee3ab8 b522ef97dab7408419248293bce7f2ea12854b21 ChTole <ch.ariel.tole@gmail.com> 1712843857 -0300	commit (merge): resuelvo conflicto merge contenidoIndex
+b522ef97dab7408419248293bce7f2ea12854b21 b522ef97dab7408419248293bce7f2ea12854b21 ChTole <ch.ariel.tole@gmail.com> 1712844182 -0300	checkout: moving from master to acercaDe
+b522ef97dab7408419248293bce7f2ea12854b21 0be26935cde95e37f891cfcaa680c41acc9acfc6 ChTole <ch.ariel.tole@gmail.com> 1712844243 -0300	commit: agrego acercaDe.html
+0be26935cde95e37f891cfcaa680c41acc9acfc6 b522ef97dab7408419248293bce7f2ea12854b21 ChTole <ch.ariel.tole@gmail.com> 1712844250 -0300	checkout: moving from acercaDe to master
