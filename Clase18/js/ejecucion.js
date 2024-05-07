@@ -1,0 +1,1 @@
+console.log(saludar('Ariel', 24265));
