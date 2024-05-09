@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header, section {
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 2%;
+    margin: 1%;
+}
+
+img {
+    width: 70%;
+    height: auto;
+}
+
+.error {
+    color: red;
+    background-color: bisque;
+    border: 1px solid black;
+    border-radius: 2px;
+}
+
+.datoCorrecto {
+    color: green;
+    background-color: whitesmoke;
+    border: 1px solid black;
+    border-radius: 2px;
+}

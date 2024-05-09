@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "nombre": "Python",
+        "interpretado": 1
+    },
+    {
+        "id": 2,
+        "nombre": "JavaScript",
+        "interpretado": 1
+    },
+    {
+        "id": 3,
+        "nombre": "Java",
+        "interpretado": 0
+    }
+]
