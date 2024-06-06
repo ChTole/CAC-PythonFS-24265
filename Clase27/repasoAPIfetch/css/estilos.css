@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+header, main, footer {
+    padding: 1%;
+    margin: 1%;
+    border: 1px solid black;
+    border-radius: 5px;
+}
