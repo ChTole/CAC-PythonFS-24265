@@ -1,0 +1,10 @@
+* {
+    box-sizing: border-box;
+}
+
+header, main, footer {
+    margin: 2%;
+    padding: 2%;
+    border: 1px solid black;
+    border-radius: 5px;
+}

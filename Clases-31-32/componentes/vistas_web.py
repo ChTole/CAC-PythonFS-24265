@@ -1,0 +1,1 @@
+# Vistas según patrón MVT (Model View Template)
