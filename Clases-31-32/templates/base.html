@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='./estilos.css') }}">
     <title>Flask - MVT</title>
 </head>
 <body>
@@ -13,6 +14,16 @@
         <section>
             <h2>Contenido de la tabla</h2>
             <!-- Acá los datos -->
+            <!-- {{ docentes }} -->
+            <ul>
+                {% for d in docentes %}
+                    <li>
+                        {{ d.nombre }} {{ d.apellido.upper() }} 
+                        <button>Modificar</button>
+                        <button>Eliminar</button>
+                    </li>
+                {% endfor %}
+            </ul>
         </section>
     </main>
     <footer>
