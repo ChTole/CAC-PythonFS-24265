@@ -3,4 +3,6 @@ import hashlib
 
 
 def encriptar(dato):
-    pass
+    dato = dato.encode(encoding='utf-8')
+    h = hashlib.shake_256(dato)
+    return h.hexdigest(20)
